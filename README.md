@@ -4,9 +4,9 @@
 
 >Proyecto de Search por una lista de datos para el uso de hooks de useContext.
 
-<img src='./src/assets/playground.png' with='200px'>
+<img src='./src/assets/playground.PNG' with='200px'>
 
-
+<img src='./src/assets/create.PNG' with='200px'>
 
 ## Build with
 
